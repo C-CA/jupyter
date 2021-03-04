@@ -11,3 +11,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - scikit-learn
+  - ipywidgets
+  - seaborn
+  - sklearn
+  - ipython
