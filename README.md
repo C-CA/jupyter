@@ -1,12 +1,12 @@
 # Jupyter environment for geospatial models.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C-CA/jupyter/geospatial)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C-CA/jupyter/geospatial?filepath=index.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/C-CA/jupyter/geospatial
+https://mybinder.org/v2/gh/C-CA/jupyter/geospatial?filepath=index.ipynb
 
 
 ## Notes
