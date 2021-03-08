@@ -4,7 +4,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - pandas
+  - geopandas
   - scikit-learn
   - ipywidgets
   - ipython
