@@ -1,14 +1,12 @@
-# Conda environment with environment.yml
+# Jupyter environment for geospatial models.
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C-CA/jupyter/HEAD?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C-CA/jupyter/geospatial)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/C-CA/jupyter/c5ca8c6bd2fe060d8b52bc8a33d7a97db075eab9?filepath=index.ipynb
-
-https://mybinder.org/v2/gh/C-CA/jupyter/HEAD?filepath=index.ipynb
+https://mybinder.org/v2/gh/C-CA/jupyter/geospatial
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
