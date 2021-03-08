@@ -9,4 +9,3 @@ dependencies:
   - ipywidgets
   - ipython
   - plotly
-  - scipy
